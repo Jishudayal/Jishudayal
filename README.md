@@ -1,6 +1,6 @@
 👋 Welcome to my GitHub profile!
 
-I am an AI professional specializing in developing innovative solutions using cutting-edge Generative AI technologies. My expertise lies in designing and deploying AI-driven products that solve real-world problems and create tangible impact.
+I am a programmer specializing in developing innovative solutions using cutting-edge Generative AI technologies and robust data engineering practices. My expertise lies in designing and deploying AI-driven products that solve real-world problems, leveraging scalable data pipelines to create tangible impact.
 
 🔧 Skills and Expertise
 
